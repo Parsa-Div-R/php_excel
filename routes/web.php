@@ -19,3 +19,5 @@ Route::get('/', function () {
 Route::get('/readingExcel', function () {
     return view('readingExcel');
 });
+
+Route::get('/readingExcel',[\App\Http\Controllers\ExcelController::class,'readingFile']);

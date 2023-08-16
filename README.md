@@ -1,3 +1,5 @@
+##   NOT FINISHED
+
 ##  excel handeling 
 if found empty time i would write this. i like to write some class to understand SOLID coding with excel also u can use this project to handle your all excel files
 
